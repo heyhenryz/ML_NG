@@ -1,4 +1,4 @@
-This is my personal python implementation of codes in ML by Andrew Ng.
+## This is my personal python implementation of codes in ML by Andrew Ng.
 
 I am a big python fan, and my goal is to master the materials in my favoriate language.
 
